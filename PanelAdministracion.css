@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+:root{
+    scroll-behavior: smooth;
+}
+body{
+    /* font-family: 'Itim', cursive; */
+    font-family: 'Dosis', sans-serif;
+    background-color: rgb(255, 255, 255);
+    
+}
+header{
+    background-color: rgb(255, 255, 255);
+/*     height: 1000px; */
+}
+
+
+.img_logo{
+    text-align: center;
+
+/*     float: right; */
+
+}
+.imglogo{
+    height: 100%;
+    max-width: 100%;
+}
+
+.panel{
+    text-align: center;
+}
